@@ -1,0 +1,14 @@
+{
+  "name": "test_project",
+  "version": "1.0.0",
+  "description": "shopping_list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.8"
+  }
+}
